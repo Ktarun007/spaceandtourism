@@ -1,0 +1,112 @@
+body{
+    background-image: url("assets/home/background-home-desktop.jpg");
+    color: #ffffff;
+   
+   
+    
+}
+h1{
+    font-family: 'Bellefair', serif;
+    font-size: 150px;
+
+}
+p{
+    font-family: 'Barlow Condensed', sans-serif;
+
+
+
+}
+header{
+    max-width: 1385px;
+    max-height: 96px;
+
+}
+hr{
+    display: block;
+    max-width:483px;
+    margin:-25px 150px;
+    color: #d0d6f9;
+
+    
+}
+
+.content{
+    margin: 50px;
+    max-width: 1400px;
+    max-height: 900px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+a:hover{
+    text-decoration: underline;
+   
+}
+.menu{
+        max-width: 569px;
+        max-height: 96px;
+        display: block;
+        float: right;
+        word-spacing: 2em;
+        margin: -10px 50px;
+        backdrop-filter: blur(5px);
+        padding: 25px;
+        padding-left: 130px;
+}
+.header{
+    max-width: 1385px;
+    max-height: 96px;
+
+}
+.logo{
+    width: 48px;
+    height: 48px;
+}
+.content-inside{
+    
+    margin: 250px 200px;
+    max-width: 490px;
+    max-height: 382px;
+    
+
+}
+#first-line{
+    display: block;
+    font-family: 'Barlow Condensed', sans-seri;
+    font-size: 28px;
+    word-spacing:  169ems;
+
+}
+#tag-line{
+    display: block;
+
+    font-size: 100px;
+    font-family: 'Bellefair', serif;
+    
+    
+}
+.para-home{
+    display: block;
+    max-width: 444px;
+    width: 350px;
+   
+
+}
+
+.bottom{
+    position: relative;
+    font-size: 32px;
+    float:right;
+    margin-top: -475px;
+    background-color: #ffffff;
+   
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.end-line{
+    color: black;
+    font-family: 'Bellefair', serif;
+    margin: 75px 50px;
+}

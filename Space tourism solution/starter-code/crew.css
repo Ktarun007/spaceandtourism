@@ -1,0 +1,113 @@
+body{
+    background-image:url("assets/crew/background-crew-desktop.jpg");
+}
+
+h1{
+    font-family: 'Bellefair', serif;
+    font-size: 150px;
+
+}
+p{
+    font-family: 'Barlow Condensed', sans-serif;
+
+
+
+}
+header{
+    max-width: 1385px;
+    max-height: 96px;
+
+}
+hr{
+    display: block;
+    max-width:483px;
+    margin:-25px 150px;
+    color: #d0d6f9;
+
+    
+}
+.content{
+    margin: 50px;
+    max-width: 1400px;
+    max-height: 900px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+    
+}
+a:hover{
+    text-decoration: underline;
+   
+}
+p{
+    color: #ffffff;
+
+}
+.menu{
+    max-width: 569px;
+    max-height: 96px;
+    display: block;
+    float: right;
+    word-spacing: 2em;
+    margin: -10px 50px;
+    backdrop-filter: blur(5px);
+    padding: 25px;
+    padding-left: 130px;
+}
+.header{
+max-width: 1385px;
+max-height: 96px;
+
+}
+.logo{
+width: 48px;
+height: 48px;
+}
+
+#first-line{
+    color: #ffffff;
+    font-size: 32px;
+    margin: 150px 250px;
+    display: block;
+    padding-bottom: 75px;
+    width: 220px;
+
+}
+#crew{
+    color: grey;
+    display: block;
+    font-size: 30px;
+    margin:-150px 250px;
+    width: 220px;
+
+}
+#name{  color: #ffffff;
+    display: block;
+    font-size: 46px;
+    margin:150px 250px
+
+}
+.bottom{
+    width: 444px;
+    height: 130px;
+    margin: -130px 250px;
+}
+
+.list{
+        display: inline;
+    width: 10px;
+    position: relative;
+    margin-top: 100px;
+    margin-left: 100px;
+
+    
+
+}
+#image{
+    width: 400px;
+    height: 400px;
+    margin-left: 900px;
+    margin-top: -500px;
+    display: inline;
+}

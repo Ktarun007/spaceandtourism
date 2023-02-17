@@ -1,0 +1,123 @@
+body{
+    background-image:url("assets/technology/background-technology-desktop.jpg");
+    width: 1300px;
+    height: 900px;
+}
+
+h1{
+    font-family: 'Bellefair', serif;
+    font-size: 150px;
+
+}
+p{
+    font-family: 'Barlow Condensed', sans-serif;
+
+
+
+}
+header{
+    max-width: 1385px;
+    max-height: 96px;
+
+}
+hr{
+    display: block;
+    max-width:483px;
+    margin:-25px 150px;
+    color: #d0d6f9;
+
+    
+}
+
+.content{
+    margin: 50px;
+    max-width: 1400px;
+    max-height: 900px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+    
+}
+a:hover{
+    text-decoration: underline;
+   
+}
+p{
+    color: #ffffff;
+
+}
+table{
+    color: #ffffff;
+    font-family: 'Barlow Condensed', sans-serif;
+    margin-top: -100px;
+}
+.menu{
+        max-width: 569px;
+        max-height: 96px;
+        display: block;
+        float: right;
+        word-spacing: 2em;
+        margin: -10px 50px;
+        backdrop-filter: blur(5px);
+        padding: 25px;
+        padding-left: 130px;
+}
+.header{
+    max-width: 1385px;
+    max-height: 96px;
+
+}
+.logo{
+    width: 48px;
+    height: 48px;
+}
+#list{
+    display: block;
+    padding: 0px;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: 50px;
+    clear: both;
+    
+}
+.container-mid{
+    width: 700px;
+    margin-top: 200px;
+    margin-left: 100px;
+    position: relative;
+    
+    
+}
+.para{
+    width: 400px;
+    position: relative;
+    margin-top: -1100px;
+    margin-left: 60px;
+    clear: both;
+    color: #ffffff;
+}
+.name{
+    color: #ffffff;
+    font-size: 30px;
+    font-family: 'Barlow Condensed', sans-serif;
+    width: 200px;
+    clear: both;
+    position: relative;
+
+
+}
+
+#mission{
+    font-size: 40px;
+    color: #ffffff;
+}
+.image-cont{
+    position: relative;
+    margin-top: 50px;
+    width: 500px;
+    float: right;
+    margin-left: 500px;
+
+}
